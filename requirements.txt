@@ -4,3 +4,4 @@ matplotlib
 keras
 imageio
 opencv-python
+sklearn
