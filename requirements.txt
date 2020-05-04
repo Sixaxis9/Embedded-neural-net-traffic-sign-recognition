@@ -1,7 +1,6 @@
 numpy
-tensorflow
+tensorflow==2.2.0rc4
 matplotlib
-keras
 imageio
 opencv-python
 sklearn
