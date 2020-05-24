@@ -4,4 +4,3 @@ matplotlib
 imageio
 opencv-python
 sklearn
-pandas
