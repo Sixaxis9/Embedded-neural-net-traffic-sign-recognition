@@ -1,0 +1,1 @@
+{'conv2d_input': 7, 'conv2d': 4, 'batch_normalization': 4, 'activation': 4, 'max_pooling2d': 4, 'conv2d_1': 4, 'batch_normalization_1': 4, 'activation_1': 4, 'max_pooling2d_1': 4, 'conv2d_2': 4, 'batch_normalization_2': 4, 'activation_2': 4, 'max_pooling2d_2': 4, 'flatten': 4, 'dense': 2, 'activation_3': 3, 'dense_1': 0, 'activation_4': 7}

@@ -1,0 +1,8 @@
+nnom_layers.c:21:8:shape_size	0	static
+nnom_layers.c:28:14:shape	4	static
+nnom_layers.c:36:14:kernel	4	static
+nnom_layers.c:40:14:stride	4	static
+nnom_layers.c:44:15:border	8	static
+nnom_layers.c:53:16:qformat	8	static
+nnom_layers.c:63:18:io_init	0	static
+nnom_layers.c:72:18:io_add_aux	8	static

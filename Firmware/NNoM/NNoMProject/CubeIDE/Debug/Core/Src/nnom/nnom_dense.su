@@ -1,0 +1,3 @@
+nnom_dense.c:70:15:dense_build	32	static
+nnom_dense.c:92:15:dense_run	48	static
+nnom_dense.c:29:15:Dense	24	static

@@ -1,0 +1,7 @@
+tflite.c:1156:9:ai_tflite_get_info	136	static
+tflite.c:1203:10:ai_tflite_get_error	0	static
+tflite.c:1209:10:ai_tflite_create	16	static
+tflite.c:1219:11:ai_tflite_destroy	0	static
+tflite.c:1225:9:ai_tflite_init	48	static
+tflite.c:1240:8:ai_tflite_run	0	static
+tflite.c:1247:8:ai_tflite_forward	0	static

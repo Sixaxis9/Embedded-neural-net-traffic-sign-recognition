@@ -1,0 +1,8 @@
+nnom_tensor.c:22:8:tensor_size	0	static
+nnom_tensor.c:35:16:new_tensor	8	static
+nnom_tensor.c:45:16:tensor_set_attribuites	40	static
+nnom_tensor.c:57:16:tensor_cpy_attributes	8	static
+nnom_tensor.c:67:6:tensor_hwc2chw_q7	24	static
+nnom_tensor.c:89:6:tensor_chw2hwc_q7	28	static
+nnom_tensor.c:120:6:hwc2chw_q7	40	static
+nnom_tensor.c:138:6:chw2hwc_q7	32	static

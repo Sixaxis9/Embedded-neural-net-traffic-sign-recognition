@@ -1,0 +1,9 @@
+keras_n_bn.c:614:9:keras_n_bn_configure_activations	24	static
+keras_n_bn.c:661:9:keras_n_bn_configure_weights	24	static
+keras_n_bn.c:730:9:ai_keras_n_bn_get_info	136	static
+keras_n_bn.c:777:10:ai_keras_n_bn_get_error	16	static
+keras_n_bn.c:783:10:ai_keras_n_bn_create	24	static
+keras_n_bn.c:793:11:ai_keras_n_bn_destroy	16	static
+keras_n_bn.c:799:9:ai_keras_n_bn_init	24	static
+keras_n_bn.c:814:8:ai_keras_n_bn_run	24	static
+keras_n_bn.c:821:8:ai_keras_n_bn_forward	16	static
