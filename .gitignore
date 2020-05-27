@@ -3,3 +3,4 @@ env
 German*traffic*sign*dataset.zip
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+__pycache__
