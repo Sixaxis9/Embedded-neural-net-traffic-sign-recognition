@@ -8,4 +8,4 @@ The templates to implement Keras, Tensorflow Lite and NNoM models on STM32 using
 Further information are provided in the respective subfolder.
 
 Summary on the metrics of the implemented model:
-![GUI of the sender](/asset/Implementation_summary.jpg)
+![Metrics summary](/Asset/Implementation_summary.jpg)
