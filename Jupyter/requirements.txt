@@ -1,5 +1,5 @@
 numpy
-tensorflow==2.2.0rc4
+tensorflow==2.5.3
 matplotlib
 imageio
 opencv-python
